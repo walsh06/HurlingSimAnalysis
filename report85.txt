@@ -1,0 +1,100 @@
+MIN) 1 The ball is controlled well by FFB2 and he scores a point by the sidelines. 
+0-0 TO 0-1 
+MIN) 2 The loose ball is picked up by FBB3 who picks out HFB1 and its stuck over the bar. 
+0-0 TO 0-2 
+MIN) 4 HBA2 hits the ball to the unmarked MFA1 on the sideline, who sends it over the bar. 
+0-1 TO 0-2 
+MIN) 5 FFA1 scores a free from a tough angle. 
+0-2 TO 0-2 
+MIN) 6 HFB3 scores a free from a tough angle. 
+0-2 TO 0-3 
+MIN) 7 The loose ball is picked up by FFB2 who picks out HFB2 and its stuck over the bar. 
+0-2 TO 0-4 
+MIN) 10 FFA1 hits the ball to the unmarked FFA2 on the sideline, who sends it over the bar. 
+0-3 TO 0-4 
+MIN) 11 A loose sliotar is picked up by MFB2 and he puts it over the bar. 
+0-3 TO 0-5 
+MIN) 13 HFA1 picks up the sliotar and hits it over the bar. 
+0-4 TO 0-5 
+MIN) 15 FFA1 takes his point. 
+0-5 TO 0-5 
+MIN) 16 MFA2 takes his point. 
+0-6 TO 0-5 
+MIN) 17 FBB2 is dragged down and HFB3 converts the free. 
+0-6 TO 0-6 
+MIN) 18 Somehow MFB2 comes out with the ball and scores a nice point. 
+0-6 TO 0-7 
+MIN) 20 HBB3 wins the ball on the 45 and scores a nice point. 
+0-6 TO 0-8 
+MIN) 21 The ball is controlled well by HFB3 and he scores a point by the sidelines. 
+0-6 TO 0-9 
+MIN) 22 A good passing move ends with MFA2 and he scores a point for the team. 
+0-7 TO 0-9 
+MIN) 24 HBA1 finds himself unmarked and slots the ball between the posts. 
+0-8 TO 0-9 
+MIN) 25 MFA1 hooks MFB1 by the sideline.
+MIN) 26 The ball is sent over the bar by FFB1. 
+0-8 TO 0-10 
+MIN) 27 A close call but MFA1 clears the ball away.
+MIN) 28 The loose ball is picked up by HBB1 who picks out HBB3 and its stuck over the bar. 
+0-8 TO 0-11 
+MIN) 29 A soft free is given by the ref and FFA1 scores it. 
+0-9 TO 0-11 
+MIN) 30 The ball is controlled well by MFB2 and he scores a point by the sidelines. 
+0-9 TO 0-12 
+MIN) 31 A soft free is given by the ref and FFA1 scores it. 
+0-10 TO 0-12 
+MIN) 32 A loose sliotar is picked up by MFB2 and he puts it over the bar. 
+0-10 TO 0-13 
+MIN) 33 FFB1 wins the ball on the 45 and scores a nice point. 
+0-10 TO 0-14 
+MIN) 34 The ball is picked up by the sideline by HFA1 he solos past two men and hits it past the goalie. 
+1-10 TO 0-14 
+MIN) 35 HBB1 is about to shoot but FBA3 gets in the way and makes the block.
+MIN) 36 FFA3 picks up the sliotar and hits it over the bar. 
+1-11 TO 0-14 
+MIN) 37 GKB misses the catch but MFB2 helps him out and scores a point from the loose ball. 
+1-11 TO 0-15 
+MIN) 38 The ball is fumbled by the goalie and HFA1 pulls on it. 
+2-11 TO 0-15 
+MIN) 42 A nasty pull on FFB3 leads to a free which is scored by HFB3. 
+2-11 TO 0-16 
+MIN) 43 The ball is sent over the bar by HFA2. 
+2-12 TO 0-16 
+MIN) 45 FFB3 is dragged down and FFA1 converts the free. 
+2-13 TO 0-16 
+MIN) 46 MFA1 shoulders HFB1 to the ground knocking the ball loose.
+MIN) 48 A poor clearance is caught by HFA2 and sent back over the bar. 
+2-14 TO 0-16 
+MIN) 49 A good passing move ends with HFA2 and he scores a point for the team. 
+2-15 TO 0-16 
+MIN) 50 A loose sliotar is picked up by HBA2 and he puts it over the bar. 
+2-16 TO 0-16 
+MIN) 51 Somehow MFA2 comes out with the ball and scores a nice point. 
+2-17 TO 0-16 
+MIN) 53 HFB3 picks up the sliotar and hits it over the bar. 
+2-17 TO 0-17 
+MIN) 54 The loose ball is picked up by FFB1 who picks out MFB2 and its stuck over the bar. 
+2-17 TO 0-18 
+MIN) 55 FFB2 makes a great catch and scores a point on the turn. 
+2-17 TO 0-19 
+MIN) 56 FFA1 finds himself unmarked and slots the ball between the posts. 
+2-18 TO 0-19 
+MIN) 57 The loose ball is picked up by MFB1 who picks out MFB2 and its stuck over the bar. 
+2-18 TO 0-20 
+MIN) 58 The loose ball is picked up by FFB3 who picks out HFB3 and its stuck over the bar. 
+2-18 TO 0-21 
+MIN) 59 And its a point from FFB2. 
+2-18 TO 0-22 
+MIN) 62 MFA2 takes his point. 
+2-19 TO 0-22 
+MIN) 64 The ref blows his whistle and HFB3 scores the free from the 65. 
+2-19 TO 0-23 
+MIN) 65 HBB1 makes a great block stopping a sure point.
+MIN) 66 HFA2 finds himself unmarked and slots the ball between the posts. 
+2-20 TO 0-23 
+MIN) 67 A loose sliotar is picked up by FFA3 and he puts it over the bar. 
+2-21 TO 0-23 
+MIN) 68 The loose ball is picked up by HFA2 who picks out FFA3 and its stuck over the bar. 
+2-22 TO 0-23 
+2-22 TO 0-23 

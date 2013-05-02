@@ -1,0 +1,69 @@
+MIN) 0 The ball is sent over the bar by HFA3. 
+0-1 TO 0-0 
+MIN) 5 The loose ball is picked up by FFB1 who picks out HFB3 and its stuck over the bar. 
+0-1 TO 0-1 
+MIN) 7 A loose sliotar is picked up by HFB3 and he puts it over the bar. 
+0-1 TO 0-2 
+MIN) 11 The ball is controlled well by FFA2 and he scores a point by the sidelines. 
+0-2 TO 0-2 
+MIN) 12 A loose sliotar is picked up by FFA2 and he puts it over the bar. 
+0-3 TO 0-2 
+MIN) 13 A poor clearance is caught by HBA2 and sent back over the bar. 
+0-4 TO 0-2 
+MIN) 14 HBB1 is dragged down and FFA1 converts the free. 
+0-5 TO 0-2 
+MIN) 15 A poor clearance is caught by FFA3 and sent back over the bar. 
+0-6 TO 0-2 
+MIN) 19 The ball is controlled well by FFA2 and he scores a point by the sidelines. 
+0-7 TO 0-2 
+MIN) 20 FFB1 passes the ball to HFB3 and its hit between the posts. 
+0-7 TO 0-3 
+MIN) 21 HFB2 takes his point and the goals will come. 
+0-7 TO 0-4 
+MIN) 22 The ball is controlled well by FFB2 and he scores a point by the sidelines. 
+0-7 TO 0-5 
+MIN) 23 FBA2 breaks the high ball for HFA2 who hits it past the keeper. 
+1-7 TO 0-5 
+MIN) 24 FFA3 shoulders FBB1 to the ground knocking the ball loose.
+MIN) 25 A poor clearance is caught by HFB1 and sent back over the bar. 
+1-7 TO 0-6 
+MIN) 26 The sliotar is picked up by FBB3 and he clears it crossfield.
+MIN) 27 MFA1 hooks FFB1 by the sideline.
+MIN) 28 FBB3 is dragged down and HFB3 converts the free. 
+1-7 TO 0-7 
+MIN) 31 HBA2 breaks the high ball for HFA2 who hits it past the keeper. 
+2-7 TO 0-7 
+MIN) 32 HFB3 puts the ball over the bar from a free on the 21. 
+2-7 TO 0-8 
+MIN) 33 The sliotar is picked up by FFB2 and he clears it crossfield.
+MIN) 34 The ball is controlled well by MFB2 and he scores a point by the sidelines. 
+2-7 TO 0-9 
+MIN) 35 FFB3 finds himself unmarked and slots the ball between the posts. 
+2-7 TO 0-10 
+MIN) 38 FFB2 makes a great catch and scores a point on the turn. 
+2-7 TO 0-11 
+MIN) 40 A poor clearance is caught by FFB1 and sent back over the bar. 
+2-7 TO 0-12 
+MIN) 41 MFB1 takes his point. 
+2-7 TO 0-13 
+MIN) 42 A nasty pull on HBB3 leads to a free which is scored by HFB3. 
+2-7 TO 0-14 
+MIN) 43 And its a point from FFA3. 
+2-8 TO 0-14 
+MIN) 44 FFB1 makes a great catch and scores a point on the turn. 
+2-8 TO 0-15 
+MIN) 45 The ball is controlled well by HFA3 and he scores a point by the sidelines. 
+2-9 TO 0-15 
+MIN) 47 FBA1 picks up the sliotar and hits it over the bar. 
+2-10 TO 0-15 
+MIN) 50 The ball is sent over the bar by MFA2. 
+2-11 TO 0-15 
+MIN) 53 A poor clearance is caught by FFB2 and sent back over the bar. 
+2-11 TO 0-16 
+MIN) 55 HFB2 is about to shoot but HBA3 gets in the way and makes the block.
+MIN) 62 MFB1 is about to shoot but FBA1 gets in the way and makes the block.
+MIN) 64 A good passing move ends with HFB1 and he scores a point for the team. 
+2-11 TO 0-17 
+MIN) 69 FFA1 points the free won by MFB1. 
+2-12 TO 0-17 
+2-12 TO 0-17 

@@ -1,0 +1,87 @@
+MIN) 0 A loose sliotar is picked up by HFA2 and he puts it over the bar. 
+0-1 TO 0-0 
+MIN) 1 GKA1 passes the ball to HFA2 and its hit between the posts. 
+0-2 TO 0-0 
+MIN) 2 GKA1 is soloing through but FFB1 flicks the sliotar off his hurley.
+MIN) 3 FFB2 is dragged down and HFB3 converts the free. 
+0-2 TO 0-1 
+MIN) 4 FFA2 makes a great catch and scores a point on the turn. 
+0-3 TO 0-1 
+MIN) 5 MFB2 takes his point and the goals will come. 
+0-3 TO 0-2 
+MIN) 7 The ball is controlled well by HFA1 and he scores a point by the sidelines. 
+0-4 TO 0-2 
+MIN) 8 The ball is fumbled by the goalie and FFB2 pulls on it. 
+0-4 TO 1-2 
+MIN) 10 MFA2 picks up the sliotar and hits it over the bar. 
+0-5 TO 1-2 
+MIN) 11 HFB3 puts the ball over the bar from a free on the 21. 
+0-5 TO 1-3 
+MIN) 12 FFA1 catches the pass from FBA3, gets past his man and adds another point. 
+0-6 TO 1-3 
+MIN) 13 HFA3 shoulders GKB to the ground knocking the ball loose.
+MIN) 15 FFB3 hits the ball to the unmarked HFB2 on the sideline, who sends it over the bar. 
+0-6 TO 1-4 
+MIN) 16 A close call but HFB2 clears the ball away.
+MIN) 17 HFB3 wins the ball on the 45 and scores a nice point. 
+0-6 TO 1-5 
+MIN) 18 FFB2 wins the ball on the 45 and scores a nice point. 
+0-6 TO 1-6 
+MIN) 19 FFA1 looks at the goals and scores a point from a free 
+0-7 TO 1-6 
+MIN) 21 FFB1 passes the ball to HFB1 and its hit between the posts. 
+0-7 TO 1-7 
+MIN) 22 The sliotar is picked up by MFB2 and he clears it crossfield.
+MIN) 24 A nasty pull on MFB1 leads to a free which is scored by FFA1. 
+0-8 TO 1-7 
+MIN) 25 MFA2 wins the ball on the 45 and scores a nice point. 
+0-9 TO 1-7 
+MIN) 26 HFA1 takes his point. 
+0-10 TO 1-7 
+MIN) 28 HBA2 makes a great block stopping a sure point.
+MIN) 29 FFA1 points the free won by MFB1. 
+0-11 TO 1-7 
+MIN) 31 MFB2 catches up to HFA2 and hooks him.
+MIN) 32 MFB2 picks up the sliotar and hits it over the bar. 
+0-11 TO 1-8 
+MIN) 34 A loose sliotar is picked up by HFB3 and he puts it over the bar. 
+0-11 TO 1-9 
+MIN) 38 HFB3 looks at the goals and scores a point from a free 
+0-11 TO 1-10 
+MIN) 41 A close call but FBA2 clears the ball away.
+MIN) 42 The ball is controlled well by HBA1 and he scores a point by the sidelines. 
+0-12 TO 1-10 
+MIN) 43 HFA2 misses the catch but MFA1 helps him out and scores a point from the loose ball. 
+0-13 TO 1-10 
+MIN) 44 The loose ball is picked up by FFA2 who picks out FBA1 and its stuck over the bar. 
+0-14 TO 1-10 
+MIN) 45 Somehow HBA1 comes out with the ball and scores a nice point. 
+0-15 TO 1-10 
+MIN) 48 The ref blows his whistle and FFA1 scores the free from the 65. 
+0-16 TO 1-10 
+MIN) 49 A good ball into the corner to HFB1 leads to a good shot past the goalie. 
+0-16 TO 2-10 
+MIN) 50 A loose sliotar is picked up by MFB2 and he puts it over the bar. 
+0-16 TO 2-11 
+MIN) 51 MFA2 takes his point. 
+0-17 TO 2-11 
+MIN) 52 HFB1 misses the catch but HFB3 helps him out and scores a point from the loose ball. 
+0-17 TO 2-12 
+MIN) 54 The ball is sent over the bar by MFB1. 
+0-17 TO 2-13 
+MIN) 55 FFA1 points the free won by HBB1. 
+0-18 TO 2-13 
+MIN) 56 A loose sliotar is picked up by FFB2 and he puts it over the bar. 
+0-18 TO 2-14 
+MIN) 57 A clearance is caught by HBA1 and he sends it right back.
+MIN) 60 FBB2 passes the ball to MFB2 and its hit between the posts. 
+0-18 TO 2-15 
+MIN) 61 FFA1 points the free won by FFB2. 
+0-19 TO 2-15 
+MIN) 62 HBA1 catches the pass from GKA1, gets past his man and adds another point. 
+0-20 TO 2-15 
+MIN) 67 A poor clearance is caught by MFB2 and sent back over the bar. 
+0-20 TO 2-16 
+MIN) 69 The ref blows his whistle and HFB3 scores the free from the 65. 
+0-20 TO 2-17 
+0-20 TO 2-17 
